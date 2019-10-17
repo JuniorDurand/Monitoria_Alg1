@@ -1,2 +1,3 @@
+print("Digite qualquer coisa")
 var = io.read()
-print(type(var))
+print("Tipo: "..type(var))
